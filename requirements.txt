@@ -1,0 +1,2 @@
+# Requires: potential-interval
+# (Not available on PyPI)
